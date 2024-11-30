@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Eze's site</title>
+  </head>
+  <body>
+    <header>
+      <table>
+        <th><a href="/">Sobre mí</a></th>
+        <th><a href="/proyectos.html">Proyectos</a></th>
+        <th><a href="/contacto.html">Contacto</a></th>
+      </table>
+    </header>
+    <main>
+      <h2>Ezequiel Fonseca Ripani</h2>
+      <h3>Programador</h3>
+      <img
+        height="200"
+        width="200"
+        src="/eze f.jpg"
+        alt="Foto de Ezequiel Fonseca Ripani programador web"
+      />
+      <p>El programador web calvo más exitoso de España en el 2025...!!!</p>
+      <a href="/proyectos.html">Haz click aquí para ver mi curriculum</a>
+    </main>
+  </body>
+</html>
